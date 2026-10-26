@@ -1,0 +1,16 @@
+name: apiverve_cashflow
+description: "Cash Flow Statement returns operating, investing and financing cash flows for a US public company by ticker - straight from SEC filings, with free cash flow, FCF margin and cash-conversion metrics calculated for you."
+version: 1.2.3
+homepage: https://apiverve.com/marketplace/cashflow?utm_source=dart&utm_medium=referral&utm_content=homepage
+repository: https://github.com/apiverve/cashflow-api/tree/main/dart
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  http: ^1.1.0
+  http_parser: ^4.0.0
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
