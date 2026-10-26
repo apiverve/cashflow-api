@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/cashflow",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Cash Flow Statement returns operating, investing and financing cash flows for a US public company by ticker - straight from SEC filings, with free cash flow, FCF margin and cash-conversion metrics calculated for you.",
   "main": "index.js",
   "types": "index.d.ts",
